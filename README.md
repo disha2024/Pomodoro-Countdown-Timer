@@ -26,7 +26,9 @@ This app automates that process and adds a visual timer and checkmark tracker.
 🖼️ GUI Preview
 
 🛠️ Tech Stack
+
 Python
+
 Tkinter(built-in Python GUI library)
 
 
